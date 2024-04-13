@@ -1,5 +1,5 @@
 # ChitraGupta
-Comprehensive Project Management appliction that allows users to plan, track, and manage tasks, timelines, and resources for various projects.
+Comprehensive Project Management application that allows users to plan, track, and manage tasks, timelines, and resources for various projects.
 
 ## Key Features:
 - User Authentication
